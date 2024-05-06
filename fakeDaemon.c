@@ -3,7 +3,7 @@
 //  Omega
 //
 //  Created by Rayyan Khan
-//  Mostly stolen from this fork https://github.com/TheRealClarity/haxx and the original haxx repository at https://github.com/asdfugil/haxx
+//  Mostly stolen from https://github.com/TheRealClarity/haxx and https://github.com/asdfugil/haxx
 
 #include <stdio.h>
 #include <unistd.h>
